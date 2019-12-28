@@ -22,4 +22,4 @@ func get_plugin_name():
 	return "Studio"
 
 func get_plugin_icon():
-	return preload("res://addons/simple_asset_studio/icon.png")
+	return preload("res://addons/simple_asset_studio/tab_icon.png")
